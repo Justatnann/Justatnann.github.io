@@ -60392,8 +60392,8 @@ return new A.hW(A.cz(A.a([A.dI(A.a([B.aK,new A.cp(1,B.a0,new A.j9("Project",$.iR
 A.uT.prototype={
 af(){return new A.Kl(B.l)}}
 A.Kl.prototype={
-L(a){var s="images/flutter.png",r=null,q="images/dart.png",p="images/nodejs.png",o="images/javascript.png",n="ExpressJs",m="images/figma.png",l=A.bb(s,r,B.vr),k=$.yR(),j=t.F
-return new A.hW(A.abf(2,A.a([new A.dm(l,A.bC("Flutter",r,r,r,k,r),B.jt,r),new A.dm(A.bb(q,r,B.MA),A.bC("Dart",r,r,r,k,r),B.js,r),new A.dm(A.bb(p,r,B.Mz),A.bC("NodeJs",r,r,r,k,r),B.jv,r),new A.dm(A.bb(o,r,B.My),A.bC("Javascript",r,r,r,k,r),B.jD,r),new A.dm(A.bb("images/express.png",r,B.Mw),A.bC(n,r,r,r,k,r),B.jy,r),new A.dm(A.bb(m,r,B.Mx),A.bC("Figma",r,r,r,k,r),B.jC,r)],j),3,20,20,!0),A.abf(1.6666666666666667,A.a([new A.dm(A.bb(s,r,B.vr),r,B.jt,r),new A.dm(A.bb(q,r,r),r,B.js,r),new A.dm(A.bb(p,r,r),r,B.jv,r),new A.dm(A.bb(o,r,r),r,B.jD,r),new A.dm(A.bC(n,r,r,r,A.aa(a).p2.Q,r),r,B.jy,r),new A.dm(A.bb(m,r,r),r,B.jC,r)],j),2,10,10,!0),r)}}
+L(a){var s="assets/images/flutter.png",r=null,q="assets/images/dart.png",p="assets/images/nodejs.png",o="assets/images/javascript.png",n="ExpressJs",m="assets/images/figma.png",l=A.bb(s,r,B.vr),k=$.yR(),j=t.F
+return new A.hW(A.abf(2,A.a([new A.dm(l,A.bC("Flutter",r,r,r,k,r),B.jt,r),new A.dm(A.bb(q,r,B.MA),A.bC("Dart",r,r,r,k,r),B.js,r),new A.dm(A.bb(p,r,B.Mz),A.bC("NodeJs",r,r,r,k,r),B.jv,r),new A.dm(A.bb(o,r,B.My),A.bC("Javascript",r,r,r,k,r),B.jD,r),new A.dm(A.bb("assets/images/express.png",r,B.Mw),A.bC(n,r,r,r,k,r),B.jy,r),new A.dm(A.bb(m,r,B.Mx),A.bC("Figma",r,r,r,k,r),B.jC,r)],j),3,20,20,!0),A.abf(1.6666666666666667,A.a([new A.dm(A.bb(s,r,B.vr),r,B.jt,r),new A.dm(A.bb(q,r,r),r,B.js,r),new A.dm(A.bb(p,r,r),r,B.jv,r),new A.dm(A.bb(o,r,r),r,B.jD,r),new A.dm(A.bC(n,r,r,r,A.aa(a).p2.Q,r),r,B.jy,r),new A.dm(A.bb(m,r,r),r,B.jC,r)],j),2,10,10,!0),r)}}
 A.A7.prototype={
 L(a){var s,r=this,q="assets/images/logo.png",p=null,o=A.bb(q,p,p),n=A.bC("Nannn",p,p,p,$.a9O(),p),m=t.F
 n=A.aa4(A.a([new A.fl(new A.OF(r),p),new A.fl(new A.OG(r),p),new A.fl(new A.OH(r),p)],m),B.j,new A.cF(B.jV,o,p),n)
@@ -66033,9 +66033,9 @@ r($,"av4","a6O",()=>A.f6().$3$color$fontSize$fontWeight(B.i,16,B.M))
 r($,"auT","ahA",()=>A.f6().$2$fontSize$fontWeight(44,B.b3))
 r($,"auV","yR",()=>A.f6().$3$color$fontSize$fontWeight(B.j,30,B.bZ))
 r($,"auX","a6M",()=>A.f6().$2$fontSize$fontWeight(22,B.M))
-r($,"auS","ahz",()=>A.f6().$2$fontSize$fontWeight(30,B.b3))
-r($,"auU","iR",()=>A.f6().$3$color$fontSize$fontWeight(B.j,24,B.bZ))
-r($,"auW","ME",()=>A.f6().$2$fontSize$fontWeight(16,B.M))
+r($,"auS","ahz",()=>A.f6().$2$fontSize$fontWeight(28,B.b3))
+r($,"auU","iR",()=>A.f6().$3$color$fontSize$fontWeight(B.j,22,B.bZ))
+r($,"auW","ME",()=>A.f6().$2$fontSize$fontWeight(14,B.M))
 s($,"aso","a6G",()=>A.ab1())
 s($,"asW","ag8",()=>A.an3())
 s($,"at6","a9B",()=>new A.B())

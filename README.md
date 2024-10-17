@@ -7,5 +7,5 @@ Personal Project to test my skill designing and implementing UI using the stuff 
 [Flutter](https://flutter.dev) and [Dart](https://dart.dev).
 
 ```bash
-print("Flutter is Fun!")
+print("Flutter is Fun!");
 ```
